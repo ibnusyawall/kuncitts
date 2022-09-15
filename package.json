@@ -1,0 +1,36 @@
+{
+  "name": "@ibnusyawall/kuncitts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnusyawall/kuncitts.git"
+  },
+  "keywords": [
+    "scrapper",
+    "nodejs",
+    "cheerio",
+    "quiz",
+    "kuncitts"
+  ],
+  "author": {
+    "name": "ibnusyawall",
+    "email": "website.isas.24@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibnusyawall/kuncitts/issues"
+  },
+  "homepage": "https://github.com/ibnusyawall/kuncitts#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
